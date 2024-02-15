@@ -9,4 +9,6 @@ se siguio los pasos para intalar tailwind en https://tailwindcss.com/docs/guides
 
 npm i react-router-dom/ se utilizo para routear las paginas ques e crearon en pages para luego agregarlas en app.jsx
 
-SE CAMBIO EL PROYECTO YA QUE ESTABA MAMANDO E INICIE EL PROYECTO MAL, el tailwing se inicio sin el vite :)
+SE CAMBIO EL PROYECTO YA QUE ESTABA MAMANDO E INICIE EL PROYECTO MAL, el tailwing se inicio sin el vite :c
+
+se agrego el paquete npm i react-icons, el cual permite importar iconos, especificamente se hizo en Header (Desde el import)

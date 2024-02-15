@@ -8,3 +8,5 @@ se intalo tailwind por medio de npm i
 se siguio los pasos para intalar tailwind en https://tailwindcss.com/docs/guides/create-react-app 
 
 npm i react-router-dom/ se utilizo para routear las paginas ques e crearon en pages para luego agregarlas en app.jsx
+
+SE CAMBIO EL PROYECTO YA QUE ESTABA MAMANDO E INICIE EL PROYECTO MAL, el tailwing se inicio sin el vite :)

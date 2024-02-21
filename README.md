@@ -12,3 +12,8 @@ npm i react-router-dom/ se utilizo para routear las paginas ques e crearon en pa
 SE CAMBIO EL PROYECTO YA QUE ESTABA MAMANDO E INICIE EL PROYECTO MAL, el tailwing se inicio sin el vite :c
 
 se agrego el paquete npm i react-icons, el cual permite importar iconos, especificamente se hizo en Header (Desde el import)
+
+npm init -y para crear el PAckage Json en root junto a npm i express
+se añadio al Package.json es lype para permitir el uso del import
+se instalo nodemon nos servira para realizar el desarrollo de nuestro sistema
+

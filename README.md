@@ -19,4 +19,5 @@ se instalo nodemon nos servira para realizar el desarrollo de nuestro sistema
 
 se intalo mongoose que permitira la conexion a la DB, para luego conectarla por medio del *conect* mongodb+srv://sebas:<password>@mern-estate.7xkobyn.mongodb.net/?retryWrites=true&w=majority que se aloja en el .env por metodo de seguridad *npm i dotenv* que es un paquete que permite hacer ignore al .env
 
+Se Creo el modelo el cual esta constituido porla creaccion de la tabla junto a los datos que la componen para luego hacer que el user sea el usuario por defecto
 

@@ -21,3 +21,7 @@ se intalo mongoose que permitira la conexion a la DB, para luego conectarla por 
 
 Se Creo el modelo el cual esta constituido porla creaccion de la tabla junto a los datos que la componen para luego hacer que el user sea el usuario por defecto
 
+
+
+dentro del index es el que mantiene la logica de direccion, por lo que se crean las rutas las cuales corresponden a las acciones a realizar (models -> controllers -> routes -> index *la geraraquia*)
+
